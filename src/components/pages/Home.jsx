@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import { InfoConsumer } from "../context";
-import Info from "../Info";
+import React, { Component } from 'react';
+import { InfoConsumer } from '../context';
+import Info from '../Info';
 
 class Home extends Component {
   render() {
